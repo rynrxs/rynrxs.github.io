@@ -1,7 +1,8 @@
 # Civil Engineering Student
 
 ### Education 
-Polytechnic Unversity of the Philippines
+**Polytechnic Unversity of the Philippines - Sta. Mes, Manila**
+September 2022 - Present
 
 ### Skills
 - AutoCAD
