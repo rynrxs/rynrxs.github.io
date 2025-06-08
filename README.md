@@ -2,7 +2,7 @@
 
 ### EDUCATION
 **Polytechnic Unversity of the Philippines - Sta. Mesa, Manila**
-- September 2022 - Present
+_September 2022 - Present_
 
 ### SKILLS
 - AutoCAD
@@ -21,20 +21,20 @@
 
 ### CERTIFICATION AND ACTIVITIES
 **Safety Officer 2 (SO2) - 40 Hour Construction Safety and Health**
-- Think Safe Training, Consultancy and Service Corporation
+_Think Safe Training, Consultancy and Service Corporation_
 
 **Junior Officer for Non-Academics Division**
-- PICE - PUP Student Chapter
+_PICE - PUP Student Chapter_
 
 **Event Volunteer**
-- 50th National Convention & Technical Conference - PICE
+_50th National Convention & Technical Conference - PICE_
 
 **Delegate**
-- 23rd National Civil Engineering Students' Conference & Competition
+_23rd National Civil Engineering Students' Conference & Competition_
 
 **Advance Microsoft Excel Course**
-- Insight Training - Manila
+_Insight Training - Manila_
 
 ### WORK EXPERIENCE 
 **Freelance**
-- August 2022 - September 2021
+_August 2022 - September 2021_
