@@ -2,7 +2,7 @@
 
 ### EDUCATION
 **Polytechnic Unversity of the Philippines - Sta. Mesa, Manila**
-*September 2022 - Present*
+- September 2022 - Present
 
 ### SKILLS
 - AutoCAD
