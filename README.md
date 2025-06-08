@@ -1,9 +1,9 @@
 # Civil Engineering Student
 
-### EDUCATION
+## EDUCATION
 **Polytechnic Unversity of the Philippines - Sta. Mesa, Manila** (_September 2022 - Present_)
 
-### SKILLS
+## SKILLS
 - AutoCAD
 - Microsoft Office
 - Google Workspace
@@ -18,22 +18,22 @@
 - Payment Processing
 - Data Encoding
 
-### CERTIFICATION AND ACTIVITIES
+## CERTIFICATION AND ACTIVITIES
 **Safety Officer 2 (SO2) - 40 Hour Construction Safety and Health**
-_Think Safe Training, Consultancy and Service Corporation_
+#### Think Safe Training, Consultancy and Service Corporation
 
 **Junior Officer for Non-Academics Division**
-_PICE - PUP Student Chapter_
+#### PICE - PUP Student Chapter
 
 **Event Volunteer**
-_50th National Convention & Technical Conference - PICE_
+#### 50th National Convention & Technical Conference - PICE_
 
 **Delegate**
-_23rd National Civil Engineering Students' Conference & Competition_
+#### 23rd National Civil Engineering Students' Conference & Competition
 
 **Advance Microsoft Excel Course**
-_Insight Training - Manila_
+#### Insight Training - Manila
 
 ### WORK EXPERIENCE 
 **Freelance**
-_August 2022 - September 2021_
+#### August 2022 - September 2021
